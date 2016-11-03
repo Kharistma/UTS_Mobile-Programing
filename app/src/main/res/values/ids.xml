@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textKue" type="id" />
+    <item name="kartuUcapan" type="id" />
+    <item name="txtDari" type="id" />
+    <item name="listUntuk" type="id" />
+    <item name="submit" type="id" />
+</resources>
